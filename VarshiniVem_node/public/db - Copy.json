@@ -1,0 +1,56 @@
+[
+  {
+    "_id": "644e654d60e25b785cf4f8dd",
+    "name": "California",
+    "abbreviation": "CA",
+    "capital": "Sacramento",
+    "largest_city": "Los Angeles",
+    "population": 39538223,
+    "area_sq_mi": 163696
+  },
+  {
+    "_id": "644e654d60e25b785cf4f8de",
+    "name": "Texas",
+    "abbreviation": "TX",
+    "capital": "Austin",
+    "largest_city": "Houston",
+    "population": 29145505,
+    "area_sq_mi": 268596
+  },
+  {
+    "_id": "644e654d60e25b785cf4f8df",
+    "name": "New York",
+    "abbreviation": "NY",
+    "capital": "Albany",
+    "largest_city": "New York City",
+    "population": 20215751,
+    "area_sq_mi": 54555
+  },
+  {
+    "_id": "644e654d60e25b785cf4f8e0",
+    "name": "Florida",
+    "abbreviation": "FL",
+    "capital": "Tallahassee",
+    "largest_city": "Jacksonville",
+    "population": 21538187,
+    "area_sq_mi": 65755
+  },
+  {
+    "_id": "644e654d60e25b785cf4f8e1",
+    "name": "Illinois",
+    "abbreviation": "IL",
+    "capital": "Springfield",
+    "largest_city": "Chicago",
+    "population": 12812562,
+    "area_sq_mi": 57914
+  },
+  {
+    "_id": "644e654d60e25b785cf4f8e2",
+    "name": "Colorado",
+    "abbreviation": "CO",
+    "capital": "Denver",
+    "largest_city": "Denver",
+    "population": 5893634,
+    "area_sq_mi": 104094
+  }
+]

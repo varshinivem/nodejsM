@@ -1,0 +1,80 @@
+body {
+    background-color: #e0e0e0; /* Light shade of grey ash color */
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    border-top: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    background-color: #b0b0b0; /* Light shade of grey ash color */
+    color: white;
+}
+
+.above-top {
+    height: 30px;
+    border-bottom: 2px solid black;
+}
+
+.top {
+    border-bottom: 2px solid black;
+    flex: 80px;
+    display: flex;
+}
+
+.bottom {
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 20px;
+    flex: 20px;
+    display: flex;
+}
+
+.left {
+    flex: 30px;
+    padding: 20px;
+}
+
+.left img {
+    max-width: 80px;
+    height: auto;
+    border: 2px solid black;
+}
+
+.right {
+    flex: 70px;
+    padding: 20px;
+    text-align: left;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav a {
+    flex: 1;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+}
+
+.section {
+    padding: 0; /* Adjust the bottom padding */
+    margin-top: -20px; /* Set margin to zero */
+    background-color: white;
+    color: #333;
+    border: none;
+}
+
+.footer {
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    padding: 5px;
+ margin-top: -10px; 
+    text-align: left;
+    background-color: #b0b0b0; /* Light shade of grey ash color */
+    color: white;
+}
